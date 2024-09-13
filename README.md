@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/modern-style-ganesh-chaturthi-banner-with-text-space_1017-39459.jpg?w=826&t=st=1726252303~exp=1726252903~hmac=80d2b2fe27d887c149b583571ad87dca096e0cdbe91cfcf7774d61b8a920f8c8)
+![MasterHead](https://img.freepik.com/free-vector/modern-style-ganesh-chaturthi-banner-with-text-space_1017-39459.jpg?w=826&t=st=1726252303~exp=1726252903~hmac=80d2b2fe27d887c149b583571ad87dca096e0cdbe91cfcf7774d61b8a920f8c8)
 <h1 align="center">Hi 👋, I'm Amit Bisht</h1>
 <h3 align="center">A Passionate Frontend Dev from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9409cb4f4d31d1241fc78654a6b0bc355f68751e86a5476ba371046083ab70de/68747470733a2f2f7361736964686172616e2d706f7274666f6c696f2e6e65746c6966792e6170702f696d616765732f736b61747465722d70726f6772616d6d65725f7374696c6c5f32782e676966">
